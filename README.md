@@ -1,2 +1,2 @@
 # Rustmap
-Uses Rustscan to scan ports and Nmap to scan all ports. Giving efficient results in full scan.
+Uses Rustscan to find all ports and Nmap to scan them even more fastly!!
